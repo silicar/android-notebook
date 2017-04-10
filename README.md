@@ -7,7 +7,7 @@
 #### 1.2 基础控件 
 
 ##### 1.2.1 文本类
-**TextView**
+[**TextView**](view/base/text/TextView.md)
 **Button**
 **Switch**
 **ToggleButton**
